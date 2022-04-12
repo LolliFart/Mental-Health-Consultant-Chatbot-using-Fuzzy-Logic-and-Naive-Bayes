@@ -1,10 +1,10 @@
 # flask-chatbot
 Built on python 3.6
 Flask==0.11
-chatterbot==0.8.4
 SQLAlchemy==1.1.11
-
-#### A web implementation of [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.
+scikit-fuzzy
+nltk
+matplotlib
 
 ## Local Setup:
  1. Open command prompt and locate folder. run 'pip install -r requirements.txt'
